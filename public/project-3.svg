@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#ece6db"/>
+  <path d="M140 180h920v420H140z" fill="#111111" fill-opacity="0.06"/>
+  <path d="M220 240h460v60H220zM220 340h640v36H220zM220 410h540v36H220z" fill="#111111" fill-opacity="0.18"/>
+  <text x="140" y="760" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="700">Project Visual 03</text>
+</svg>
